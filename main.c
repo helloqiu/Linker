@@ -1,10 +1,10 @@
 /*
 Date : 2015-3-30-19:16
-Author : ÕÅÓîÑô(heheda || helloqiu)
+Author : å¼ å®‡é˜³(heheda || helloqiu)
 Description : to create a sample linker
 
 Data : 2015-3-30-20:44
-Author : ÕÅÓîÑô(heheda || helloqiu)
+Author : å¼ å®‡é˜³(heheda || helloqiu)
 Description : finished it.But the code is somehow ugly...
 */
 
